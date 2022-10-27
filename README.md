@@ -1,4 +1,4 @@
-#Neoclassical Model
+# Neoclassical Model
 
 In this project we develop a Neoclassical model using the library Dynare in MATLAB. This is based on a test taken in my Master's degree about macroeconomic fluctuations.
 
